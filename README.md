@@ -41,7 +41,7 @@ File archiver written in Rust, with a custom binary container format, rANS entro
 | <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> | Java | Intermediate |
 | <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> | Kotlin | basic |
 | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> | JavaScript | Very Basic |
-| <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> | Node.js | Intermediate |
+| <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> | Node.js | Very Basic |
 | <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> | HTML | Intermediate |
 | <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"> | CSS | Intermediate |
 | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | Python | Basic / Intermediate |
@@ -67,12 +67,3 @@ File archiver written in Rust, with a custom binary container format, rANS entro
 - **Networking:** how networks and protocols behave.
 - **Reverse engineering:** analyzing how software behaves, as a learning exercise.
 - **Local AI:** running LLMs locally and experimenting with AI development tools.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Clutsy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clutsy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages">
-</p>

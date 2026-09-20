@@ -1,4 +1,4 @@
-<img src="https://www.cobaltstrike.com/app/uploads/2023/01/cobaltstrike_ssh2.png"
+<img src="https://www.cobaltstrike.com/app/uploads/2023/01/cobaltstrike_ssh2.png">
 
 
 ---

@@ -1,3 +1,8 @@
+<img src="https://www.cobaltstrike.com/app/uploads/2023/01/cobaltstrike_ssh2.png"
+
+
+---
+
 <h1 align="center">Hi, I'm Clutsy 👋</h1>
 
 <p align="center">
@@ -53,7 +58,7 @@ File archiver written in Rust, with a custom binary container format, rANS entro
 |---|---|---|
 | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> | Android | Android internals, rooting, custom ROMs, recovery, debugging |
 | <img src="https://img.shields.io/badge/-ADB-3DDC84?style=flat-square&logo=android&logoColor=white" alt="ADB"> | ADB | Device debugging, logs, shell access, working with recovery |
-| <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> | Linux | Daily use, working with and debugging Linux systems |
+| <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> | Linux | Working with and debugging Linux systems |
 | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> | Git | Version control for my projects |
 
 ---
